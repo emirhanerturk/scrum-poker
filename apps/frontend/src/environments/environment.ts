@@ -4,6 +4,9 @@
 
 export const environment = {
   production: false,
+  socketio: {
+    url: 'http://localhost:3333'
+  }
 };
 
 /*
