@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "tslib" : ["node_modules/tslib/tslib.d.ts"],
       "@scrum-poker/shared": ["libs/shared/src/index.ts"]
     }
   },
