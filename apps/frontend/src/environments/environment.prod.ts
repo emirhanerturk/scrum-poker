@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
   socketio: {
-    url: 'http://scrumpoker.marsilyalidokiscileri.com'
+    url: 'https://scrumpoker.marsilyalidokiscileri.com'
   }
 };
