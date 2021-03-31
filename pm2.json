@@ -2,6 +2,6 @@
   "apps": [{
     "name": "scrum-poker",
     "script": "npm",
-    "args": "start:backend"
+    "args": "run start:backend"
   }]
 }
